@@ -15,7 +15,7 @@
 }
 
 body {
-  font-family: 'Noto Sans KR', 'Montserrat', sans-serif;
+  font-family: 'Montserrat', 'Noto Sans KR';
   background-color: var(--background-color);
   color: var(--text-color);
   display: flex;
@@ -111,7 +111,7 @@ body {
 }
 
 .word {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', 'Noto Sans KR';
   font-size: 4.5rem;
   font-weight: 700;
   color: var(--primary-color);
@@ -259,4 +259,5 @@ body {
   .voca-card  { padding: 1.5rem; min-height: 400px; }
   .example-sentence      { font-size: 1.2rem; }
   .example-translation   { font-size: 1.1rem; }
+
 }
