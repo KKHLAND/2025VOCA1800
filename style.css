@@ -15,7 +15,7 @@
 }
 
 body {
-  font-family: 'Noto Sans KR', 'Montserrat';
+  font-family: 'Montserrat';
   background-color: var(--background-color);
   color: var(--text-color);
   display: flex;
@@ -111,7 +111,7 @@ body {
 }
 
 .word {
-  font-family: 'Montserrat', 'Noto Sans KR';
+  font-family: 'Montserrat';
   font-size: 4.5rem;
   font-weight: 700;
   color: var(--primary-color);
@@ -261,3 +261,4 @@ body {
   .example-translation   { font-size: 1.1rem; }
 
 }
+
